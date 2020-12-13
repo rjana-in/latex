@@ -2,8 +2,8 @@ exclude: ['README.md']
 
 theme: jekyll-theme-primer
 
-title: learnlatex.org
-description: Learn LaTeX online
+title: Personalized Latex Tutorial by Rakesh Jana
+description: Parent site is Learn LaTeX online
 
 logo: learnlatex.png
 
